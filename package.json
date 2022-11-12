@@ -1,0 +1,14 @@
+{
+  "name": "linkedin_jsonpckg",
+  "version": "1.0.0",
+  "description": "Ejemplo de package json export",
+  "main": "demo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
